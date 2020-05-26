@@ -1,4 +1,4 @@
-int led = 13;
+int led = 12;
 int ldr = A0;
 int leitura = 0;
 void setup()
